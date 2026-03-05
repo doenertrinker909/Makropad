@@ -16,20 +16,17 @@ A minimalistic makropad featuring a 4x4 grid of keys, two rotary encoders and a 
 # First start
 
 - By default the makropad will work like a standard keypad in the following format:
-```
- ________
-|7|8|9|+ |
- ________
-|4|5|6|- |
- ________
-|1|2|3|+ |
- ________
-|0|.|/|↵ |
- ‾‾‾‾‾‾‾‾
-```
+
 <kbd> 7 </kbd> <kbd> 8 </kbd> <kbd> 9 </kbd> <kbd> + </kbd>
 
 <kbd> 4 </kbd> <kbd> 5 </kbd> <kbd> 6 </kbd> <kbd> - </kbd>
 
 <kbd> 1 </kbd> <kbd> 2 </kbd> <kbd> 3 </kbd> <kbd> * </kbd>
+
 <kbd> 0 </kbd> <kbd> . </kbd> <kbd> / </kbd> <kbd> ↵ </kbd>
+
+,,,
+7,8,9,+
+4,5,6,-
+1,2,3,+
+0,.,/,↵
