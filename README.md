@@ -36,12 +36,15 @@ The pcb layout
   <summary> The schematics </summary>
   
   The MCU with the encoders and OLED
+
   ![image of mcu + encoders](/images/mcu+encoders.png)
 
   The switch matrix
+
   ![image of the switch matrix](/images/switchmatrix.png)
 
   The ledmatrix
+
   ![image of the led matrix](/images/ledmatrix.png)
 </details>
 
