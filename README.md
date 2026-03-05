@@ -6,8 +6,12 @@ A minimalistic makropad featuring a 4x4 grid of keys, two rotary encoders and a 
 ![render of the makropad](/images/render1.png)
 
 You can put most makropad like keyboards in two categories:
+
+
 Way too expensive and overbloated with useless features
+
 or
+
 An ok price but a ugly design (in my opinion)
 
 That's what motivated me to make my own makropad. It's designed to be easily build, having just the right amount of features all while having a sleek minimalistic design.
