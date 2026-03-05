@@ -1,9 +1,12 @@
 # Makropad
 
 A minimalistic makropad featuring a 4x4 grid of keys, two rotary encoders and a 128x32 OLED display. 
+
+
 ![render of the makropad](/images/render1.png)
+
 You can put most makropad like keyboards in two categories:
-Way too expensive with and overbloated with useless features
+Way too expensive and overbloated with useless features
 or
 An ok price but a ugly design (in my opinion)
 
