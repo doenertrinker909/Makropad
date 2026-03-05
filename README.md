@@ -2,6 +2,12 @@
 
 A minimalistic makropad featuring a 4x4 grid of keys, two rotary encoders and a 128x32 OLED display. 
 ![render of the makropad](/images/render1.png)
+You can put most makropad like keyboards in two categories:
+Way too expensive with and overbloated with useless features
+or
+An ok price but a ugly design (in my opinion)
+
+That's what motivated me to make my own makropad. It's designed to be easily build, having just the right amount of features all while having a sleek minimalistic design.
 
 # Features
 
@@ -12,6 +18,10 @@ A minimalistic makropad featuring a 4x4 grid of keys, two rotary encoders and a 
 - Power via USB-C
 - Sleek minimalist case optimised for CNC milling and 3D printing
 - Hot swap switches
+
+# PCB
+
+![screenshot of the pcb](/images/pcb.png)
 
 # First start
 
@@ -25,8 +35,5 @@ A minimalistic makropad featuring a 4x4 grid of keys, two rotary encoders and a 
 
 <kbd> 0 </kbd> <kbd> . </kbd> <kbd> / </kbd> <kbd> ↵ </kbd>
 
-,,,
-7,8,9,+
-4,5,6,-
-1,2,3,+
-0,.,/,↵
+- You can either just compile and flash the firmware with QMK toolbox or choose to customize the code further to your needs
+- By customizing the QMK files you can make it your own
