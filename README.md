@@ -16,6 +16,7 @@ A minimalistic makropad featuring a 4x4 grid of keys, two rotary encoders and a 
 # First start
 
 - By default the makropad will work like a standard keypad in the following format:
+'''
  ________
 |7|8|9|+ |
  ________
@@ -25,3 +26,4 @@ A minimalistic makropad featuring a 4x4 grid of keys, two rotary encoders and a 
  ________
 |0|.|/|↵ |
  ‾‾‾‾‾‾‾‾
+'''
