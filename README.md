@@ -50,7 +50,7 @@ The pcb layout
 
 # First start
 
-- By default the makropad will work like a standard keypad in the following format:
+- By default the makropad will work like a standard numpad in the following format:
 
 <kbd> 7 </kbd> <kbd> 8 </kbd> <kbd> 9 </kbd> <kbd> + </kbd>
 
