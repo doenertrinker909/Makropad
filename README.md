@@ -23,12 +23,22 @@ That's what motivated me to make my own makropad. It's designed to be easily bui
 - A 128x32 OLED that displays helpful information
 - Custom shortcuts for any program (with QMK)
 - Power via USB-C
-- Sleek minimalist case optimised for CNC milling and 3D printing
+- Sleek minimalistic case optimised for CNC milling and 3D printing
 - Hot swap switches
 
 # PCB
 
-![screenshot of the pcb](/images/pcb.png)
+The pcb layout
+
+![screenshot of the pcb layout](/images/pcb.png)
+
+<details>
+  <summary> The schematics </summary>
+  
+  ![image of mcu + encoders](/images/mcu+encoders.png)
+  ![image of the switch matrix](/images/switchmatrix.png)
+  ![image of the led matrix](/images/ledmatrix)
+</details>
 
 # First start
 
