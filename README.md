@@ -32,5 +32,4 @@ A minimalistic makropad featuring a 4x4 grid of keys, two rotary encoders and a 
 <kbd> 4 </kbd> <kbd> 5 </kbd> <kbd> 6 </kbd> <kbd> - </kbd>
 
 <kbd> 1 </kbd> <kbd> 2 </kbd> <kbd> 3 </kbd> <kbd> * </kbd>
-
 <kbd> 0 </kbd> <kbd> . </kbd> <kbd> / </kbd> <kbd> ↵ </kbd>
