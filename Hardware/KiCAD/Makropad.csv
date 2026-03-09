@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16","16","D","","","","Diode_SMD:D_SOD-323","~"
+"J1","1","OLED","","","","OLED:SSD1306-0.91-OLED-4pin-128x32","~"
+"LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10,LED11,LED12,LED13,LED14,LED15,LED16","16","WS2812B-V5/W","","","","WS2812B-V5/W:SMD4_LED_SMD5050_WS2812B_WDS","WS2812B-V5/W"
+"R1","1","330","","","","Resistor_SMD:R_0402_1005Metric","~"
+"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12,SW13,SW14,SW15,SW16","16","SW_Push","","","","PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u","~"
+"SW17,SW18","2","RotaryEncoder_Switch","","","","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm","~"
+"U2","1","Sparkfun_Pro_Micro","","","","ArduinoPro:Sparkfun_Pro_Micro","https://www.sparkfun.com/products/12640"

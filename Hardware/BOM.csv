@@ -1,0 +1,8 @@
+Product Name,Product Description,Product Link,Product Unit Cost in EUR,Product Amount, Total in EUR
+1N4148WS,Diode,https://jlcpcb.com/partdetail/2485-1N4148WS/C2128,0.0079,16,0.13 
+,128x32 OLED,,,1
+WS2812B-V5/W,LED SOD-323,https://jlcpcb.com/partdetail/Worldsemi-WS2812B_V5W/C2874885?_t=1773094219974&spm=jlcpcb.Public.2001&up_spm=Jlcpcb.Loginpage.1003,0.09,16,1.34
+RCA02330RJLF,330 Ohm resistor 0402,https://jlcpcb.com/partdetail/23789673-RCA02330RJLF/C22356229,0.0003,1,0
+,Cherry style keyboardswitch,,,16
+,EC11 Rotary encoder,,,2
+,Arduino Pro Micro (ATmega32u4),,,1
