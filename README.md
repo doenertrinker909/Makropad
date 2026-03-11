@@ -5,16 +5,16 @@ A minimalistic makropad featuring a 4x4 grid of keys, two rotary encoders and a 
 
 ![render of the makropad](/images/render1.png)
 
-You can put most makropad like keyboards in two categories:
+You can put most makropad-like keyboards in two categories:
 
 
 Way too expensive and overbloated with useless features
 
 or
 
-An ok price but a ugly design (in my opinion)
+An ok price but an ugly design (in my opinion)
 
-That's what motivated me to make my own makropad. It's designed to be easily build, having just the right amount of features all while having a sleek minimalistic design.
+That's what motivated me to make my own makropad. It's designed to be easily built, having just the right amount of features all while having a sleek minimalistic design.
 
 # Features
 
@@ -43,7 +43,7 @@ The pcb layout
 
   ![image of the switch matrix](/images/switchmatrix.png)
 
-  The ledmatrix
+  The LED matrix
 
   ![image of the led matrix](/images/ledmatrix.png)
 </details>
